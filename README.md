@@ -42,13 +42,13 @@ Languages
 
 - Ukrainian — Native
 - Russian — Fluent
-- English — Intermediate (B1/B2)
+- English — Intermediate (А2/В1)
 - German — Basic (A1/A2), actively learning
 
 Contact
 
 - Location: Göttingen, Germany
-- Email: [Add your email]
-- Telephone: [Add your phone number]
+- Email: d.piskovoj@gmail.com 
+  
 
 This portfolio documents practical work and technical experience. Additional photographs and project details will be added progressively.
