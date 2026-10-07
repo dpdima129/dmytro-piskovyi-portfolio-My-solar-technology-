@@ -17,7 +17,7 @@ I am looking for an opportunity as an Elektrohelfer, Photovoltaik-Monteur or Sol
 Technical Skills
 
 - PV systems: Installation and cabling of photovoltaic systems
-- Inverters: Practical experience with Deye and Anern equipment
+- Inverters: Practical experience with Deye and Anern, Must, POWmr equipment
 - Electrical work: Cable routing, cable termination and distribution panel wiring
 - Battery storage: LiFePO4 and NMC battery systems
 - BMS: Practical experience with JK BMS, JBD and ANT BMS
